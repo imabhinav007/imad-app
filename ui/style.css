@@ -4,7 +4,7 @@
 }
 
 .center {
-    text-align:center; color:white;
+    text-align:center; color:black;
     background-image: url("http://feelgrafix.com/817860-geek-wallpaper.html");
 }
 .mainbdy { background-color: blue;
@@ -15,10 +15,6 @@
 
 .bold {
     font-weight: bold;
-}
-
-.img-medium {
-    height: 200px;
 }
 
 .main{
